@@ -1,0 +1,17 @@
+service\exceptions\BookAlreadyExistsException.class
+main\Application.class
+service\shopping_cart\DbShoppingCartsService.class
+database\Queries.class
+service\shopping_cart\ShoppingCartsService.class
+service\exceptions\InexistentItemException.class
+database\DbConnection.class
+model\ShoppingCart.class
+service\exceptions\InvalidQuantityException.class
+service\shopping_cart\MyShoppingCartsService.class
+service\exceptions\InexistentBookException.class
+model\Book.class
+service\books\DbInventoryService.class
+service\books\MyInventoryService.class
+service\BookStore.class
+service\books\InventoryService.class
+service\exceptions\InsufficientStockException.class

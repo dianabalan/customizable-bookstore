@@ -1,0 +1,17 @@
+C:\Users\RB96IH\projects\learning\sesiune-19-complet\src\main\java\model\Book.java
+C:\Users\RB96IH\projects\learning\sesiune-19-complet\src\main\java\database\DbConnection.java
+C:\Users\RB96IH\projects\learning\sesiune-19-complet\src\main\java\model\ShoppingCart.java
+C:\Users\RB96IH\projects\learning\sesiune-19-complet\src\main\java\service\exceptions\InexistentBookException.java
+C:\Users\RB96IH\projects\learning\sesiune-19-complet\src\main\java\service\shopping_cart\ShoppingCartsService.java
+C:\Users\RB96IH\projects\learning\sesiune-19-complet\src\main\java\service\exceptions\InexistentItemException.java
+C:\Users\RB96IH\projects\learning\sesiune-19-complet\src\main\java\service\shopping_cart\MyShoppingCartsService.java
+C:\Users\RB96IH\projects\learning\sesiune-19-complet\src\main\java\main\Application.java
+C:\Users\RB96IH\projects\learning\sesiune-19-complet\src\main\java\service\books\MyInventoryService.java
+C:\Users\RB96IH\projects\learning\sesiune-19-complet\src\main\java\service\exceptions\BookAlreadyExistsException.java
+C:\Users\RB96IH\projects\learning\sesiune-19-complet\src\main\java\service\BookStore.java
+C:\Users\RB96IH\projects\learning\sesiune-19-complet\src\main\java\service\exceptions\InsufficientStockException.java
+C:\Users\RB96IH\projects\learning\sesiune-19-complet\src\main\java\service\books\DbInventoryService.java
+C:\Users\RB96IH\projects\learning\sesiune-19-complet\src\main\java\service\books\InventoryService.java
+C:\Users\RB96IH\projects\learning\sesiune-19-complet\src\main\java\database\Queries.java
+C:\Users\RB96IH\projects\learning\sesiune-19-complet\src\main\java\service\shopping_cart\DbShoppingCartsService.java
+C:\Users\RB96IH\projects\learning\sesiune-19-complet\src\main\java\service\exceptions\InvalidQuantityException.java
